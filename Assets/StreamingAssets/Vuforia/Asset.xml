@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tooth" size="5.000000 5.000000" />
+    <ImageTarget name="copper" size="5.000000 5.000000" />
+    <ImageTarget name="spdorbitals" size="5.000000 2.489511" />
+    <ImageTarget name="solarsystem" size="5.000000 3.541667" />
+    <ImageTarget name="skeleton" size="5.000000 12.166667" />
+    <ImageTarget name="eyeanatomy" size="5.000000 3.541667" />
+    <ImageTarget name="heart-" size="5.000000 5.000000" />
+    <ImageTarget name="grindinh" size="5.000000 2.625000" />
+    <ImageTarget name="grasshopper" size="5.000000 3.069444" />
+    <ImageTarget name="doggtskele" size="5.000000 3.972222" />
+    <ImageTarget name="cockroach" size="5.000000 4.527778" />
+    <ImageTarget name="alkane" size="5.000000 5.000000" />
+    <ImageTarget name="3dprinter" size="5.000000 5.000000" />
+    <ImageTarget name="some" size="6.000000 7.196105" />
+  </Tracking>
+</QCARConfig>
